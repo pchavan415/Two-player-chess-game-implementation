@@ -3,7 +3,7 @@
 This is the graphical two player chess game totally implemented in java using ACM library.
 To run this java file, you should download ACM library. I have uploaded ACM in this repository.
 To include it in java program follow these steps->
-1) Start Eclipse, and locate the project folder to which this ACM library should be added.\n
+1) Start Eclipse, and locate the project folder to which this ACM library should be added.<br>
 2) Right-click class folder, and select "Properties".
 3) Select "Java Build Path" on the left, and then the "Libraries" tab. Now, click the "Add External JARS..." button.
 4) Locate and select the "acm.jar" file you just downloaded, and then click "Open".
