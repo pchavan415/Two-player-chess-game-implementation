@@ -9,5 +9,5 @@ To include it in java program follow these steps-><br>
 4) Locate and select the "acm.jar" file you just downloaded, and then click "Open".<br>
 5) Finally, click "OK" to close the dialog box. You will know that everything went ok if, when you open your project folder, you see an item called "Referenced Libraries", and upon expanding this item, you see the package "acm.jar" listed.<br>
 
-Now run this java file.<br>
+Keep all the .java files in a single project with the images in the project directory. Run Chess.java<br>
 An applet window will open where you can start playing chess :)
